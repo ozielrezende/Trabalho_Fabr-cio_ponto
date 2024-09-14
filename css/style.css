@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+h1 {
+  margin-top: 10px;
+  text-align: center;
+
+}
+#estado {
+  margin-top: 20px;
+  font-size: 16px;
+  padding: 10px;
+}
+
+#cidade-list {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.cidade-item {
+  margin: 5px 0;
+}
+
+footer {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+
+footer p {
+  margin-bottom: 16px;
+}
+
+#copyright {
+  background-color: blueviolet;
+  color: white;
+  /* padding: 24px; */
+  text-align: center;
+}
